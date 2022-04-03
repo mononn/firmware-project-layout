@@ -46,6 +46,8 @@ $ DEVICE=esp32 make
 #### ESP32
 #### nRF52
 #### STM32
+##### STM32G4
+`$ cd external; git clone https://github.com/STMicroelectronics/STM32CubeG4.git`
 
 ## Supported Microcontrollers
 
@@ -56,3 +58,4 @@ $ DEVICE=esp32 make
 | Nordic       | nRF52         | Cortex-M4  |      |
 | ST           | STM32F1       | Cortex-M3  |      |
 | ST           | STM32F4       | Cortex-M4  |      |
+| ST           | STM32G4       | Cortex-M4  |      |
