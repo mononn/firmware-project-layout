@@ -2,7 +2,6 @@ ST_SRCS += \
 	$(PORT_ROOT)/startup_stm32g484xx.s \
 	$(PORT_ROOT)/system_stm32g4xx.c \
 	$(PORT_ROOT)/stm32g4xx_hal_msp.c \
-	$(PORT_ROOT)/stm32g4xx_hal_timebase_tim.c \
 	$(PORT_ROOT)/stm32g4xx_it.c \
 	\
 	$(HAL_ROOT)/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c \
